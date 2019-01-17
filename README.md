@@ -33,7 +33,7 @@ Puzzle tools allow the user to check their guesses or reveal the answer. The use
 ###Saved Puzzles
 After logging in, users puzzle progress is automatically saved to the server. They can resume any of their previously saved puzzles from the Saved Puzzles menu (only visible to authenticated users).
 
-![saved-puzzles](gifs/saved-puzzles.gif)
+![saved-puzzles](gifs/puzzle-save.gif)
 
 ###Real-Time Collaboration
 Users can collaborate with each other in real time. After sharing a puzzle link with another user, both users will have access to the same puzzle grid and will be able to see the other's answers and cursor position as they work through the puzzle together.
