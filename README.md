@@ -12,7 +12,7 @@ Requires [react-ipuz](https://github.com/ihollander/react-ipuz) frontend and [re
 5. [Real-time collaboration](#real-time-collaboration)
 
 ### File Conversion
-Puzzle conversion is made possible thanks to a custom Javascript .puz file parser, written for this project based off this [spec](https://code.google.com/archive/p/puz/wikis/FileFormat.wiki). Users can upload puzzle files from a number of major crossword puzzle publishers, including the New York Times and Wall Street Journal. Puzzles are parsed client-side into a JSON object which is used to generate the puzzle grid.
+Puzzle conversion is made possible thanks to a custom Javascript .puz file parser, written for this project based off this [spec](https://code.google.com/archive/p/puz/wikis/FileFormat.wiki). Users can upload puzzle files from a number of major crossword puzzle publishers, including the New York Times and Wall Street Journal. Puzzles are parsed client-side into a Javascript object which is used to generate the puzzle grid.
 
 ![puzzle-parse](gifs/puzzle-parsing.gif)
 
